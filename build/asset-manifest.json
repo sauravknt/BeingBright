@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b93c191a.css",
+    "main.js": "/static/js/main.2c23eceb.js",
+    "static/js/453.611aecb3.chunk.js": "/static/js/453.611aecb3.chunk.js",
+    "static/media/OurMission.jpg": "/static/media/OurMission.94359f2e89075c950462.jpg",
+    "static/media/Team.jpg": "/static/media/Team.8e1692f0f66cd2311d78.jpg",
+    "static/media/field_visit1.jpg": "/static/media/field_visit1.c6188d68e6f194f02bea.jpg",
+    "static/media/field_visit2.jpg": "/static/media/field_visit2.1d54339b465bc9e9941d.jpg",
+    "static/media/gifts.jpg": "/static/media/gifts.fdf00c358d5ab3355285.jpg",
+    "static/media/NGO_ICON.jpg": "/static/media/NGO_ICON.e355e59a307b8b2eda01.jpg",
+    "index.html": "/index.html",
+    "main.b93c191a.css.map": "/static/css/main.b93c191a.css.map",
+    "main.2c23eceb.js.map": "/static/js/main.2c23eceb.js.map",
+    "453.611aecb3.chunk.js.map": "/static/js/453.611aecb3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b93c191a.css",
+    "static/js/main.2c23eceb.js"
+  ]
+}

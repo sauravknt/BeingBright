@@ -1,0 +1,10 @@
+.hero{
+    height: 100vh;
+    background: linear-gradient(blue);
+    display: flex;
+}
+.navimg{
+   
+    display: flex;
+}
+  
